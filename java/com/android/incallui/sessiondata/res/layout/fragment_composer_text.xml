@@ -37,7 +37,7 @@
       android:background="@drawable/answer_text_only_background"
       android:elevation="@dimen/answer_data_elevation"
       android:gravity="center_horizontal"
-      android:textColor="@color/background_dialer_white"
+      android:textColor="@color/message_primary_text_color_six"
       android:textAppearance="@style/Dialer.Incall.TextAppearance.Message"/>
 
   <ImageView
